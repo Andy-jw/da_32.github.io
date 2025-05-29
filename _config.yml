@@ -9,7 +9,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/pineapple"
+baseurl: "https://da_32.github.io/"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
